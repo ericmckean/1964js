@@ -1,0 +1,18 @@
+{
+  "max_line_length" : {
+    "value": 80,
+    "level" : "ignore"
+  },
+  
+  "no_backticks" : {
+    "level" : "ignore"
+  },
+
+  "no_trailing_whitespace" : {
+    "level" : "ignore"
+  },
+
+  "no_trailing_semicolons" : {
+    "level" : "ignore"
+  }
+}
